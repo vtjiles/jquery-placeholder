@@ -1,0 +1,3 @@
+.ui-placeholder-container {	display : block;	position : relative;}
+.ui-placeholder-label {  position : absolute; cursor : text; color : #aaa !important; font-weight: normal;}
+.ui-placeholder-fill { position: absolute; top: 0; right: 0; left: 0; bottom: 0; }
